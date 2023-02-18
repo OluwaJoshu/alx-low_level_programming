@@ -10,4 +10,4 @@ char c;
 for (c = 'a'; c <= 'z'; c++)
 putchar(c);
 putchar('\n');
-retutn(0);
+return(0);
