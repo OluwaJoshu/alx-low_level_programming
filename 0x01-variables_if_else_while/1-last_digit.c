@@ -4,7 +4,6 @@
 /**
  * main - Prints a text accoriding number 
  * Return: Always (success)
- *
  */
 int main(void)
 
