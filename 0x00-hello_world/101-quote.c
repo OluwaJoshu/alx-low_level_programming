@@ -3,7 +3,7 @@
 /**
  * main - A c program that prints a line to the standard error
  * Decription: 'this describes the program'
- * Return 1 (Successful)
+ * Return: 1 (Successful)
  */
 int main(void)
 {
